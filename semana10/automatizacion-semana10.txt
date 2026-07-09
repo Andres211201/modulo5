@@ -1,0 +1,7 @@
+Evento que activa el flujo: reporte registrado por usuario.
+
+Acción: enviar al coordinador mensaje a Telegram.
+
+Mensaje: “Se ha generado un nuevo reporte. Por favor, revisar sistema.”
+
+Información que no debe enviarse: nombres completos de usuarios, documentos de identidad, direcciones, teléfonos, claves o datos sensibles.

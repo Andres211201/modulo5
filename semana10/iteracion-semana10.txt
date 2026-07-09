@@ -1,0 +1,13 @@
+¿Qué 2 tareas del backlog harías primero?
+R/ Haría primero la tarea de Como ciudadano quiero registrar una incidencia para dejar evidencia del caso y 
+Como coordinador quiero recibir una alerta en Telegram para revisar un nuevo reporte.
+
+¿Por qué son las más importantes?
+R/ Porque una de las tareas es para el coordinador para conocer los nuevos reportes e intentar darle una solución temprana
+a esos reportes, igualmente el registro de las evidencias son necesarias para conocer cada vez que se genere una
+incorformidad o situación que reconozcan los ciudadanos.
+
+¿Qué significa para ti que una tarea esté “terminada”?
+R/ Significa que las funciones la cumple completamente la aplicación cuando los usuarios la usan y 
+reciben los resultados esperados, además queda bien registrado la aplicación en repositorios para que no sea vulnerada y
+llevar control de las versiones que se realizan
