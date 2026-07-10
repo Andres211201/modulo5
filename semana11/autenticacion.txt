@@ -1,0 +1,10 @@
+El proceso de inicio de sesión (login) permite autenticar la identidad de un usuario antes de otorgarle acceso a las funcionalidades 
+del sistema.
+
+Determinadas rutas y recursos deben estar protegidos mediante mecanismos de autenticación y autorización, ya que pueden contener 
+información confidencial, registros internos o permitir acciones que únicamente deben ser ejecutadas por usuarios con los permisos 
+correspondientes.
+
+Asimismo, el sistema no debe exponer públicamente información sensible, como contraseñas, documentos de identidad, números telefónicos, 
+direcciones, tokens de autenticación, claves de API o cualquier otro dato confidencial relacionado con la comunidad o sus usuarios, 
+garantizando así la seguridad, privacidad e integridad de la información.

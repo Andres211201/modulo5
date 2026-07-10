@@ -1,0 +1,23 @@
+Entidad: Usuario
+
+Campos principales:
+- id
+- nombres
+- tipo
+- fecha
+
+Propósito:
+Guardar los usuarios que hacen parte de los reportes que se generen.
+
+
+Entidad: Reporte
+
+Campos principales:
+- id
+- usuario_id
+- titulo
+- descripcion
+- fecha
+
+Propósito:
+Registrar los reportes que recibe el sistema para hacer seguimiento a la participación.

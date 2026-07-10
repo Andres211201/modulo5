@@ -1,0 +1,11 @@
+La interfaz del sistema contará con un módulo para la creación de nuevas causas comunitarias, en el que los usuarios autorizados 
+podrán registrar el título, la descripción y la fecha correspondiente a cada iniciativa.
+
+Asimismo, dispondrá de una sección donde se visualizará el listado de causas disponibles, permitiendo a los usuarios consultar su 
+información de manera organizada y accesible.
+
+Cada causa incluirá un botón para expresar apoyo y un contador que refleje el número total de usuarios que la han respaldado, 
+facilitando el seguimiento del nivel de participación de la comunidad.
+
+La interfaz deberá ser intuitiva, clara y de fácil navegación, garantizando una experiencia de usuario adecuada y evitando la 
+exposición de información privada o datos personales de los participantes.
